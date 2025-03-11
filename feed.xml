@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiller Baking Co.</title>
+    <description>Tiller Baking Co. is a brand new bakery ready to serve Charleston's restaurants.
+</description>
+    <link>http://tillerbaking.co//</link>
+    <atom:link href="http://tillerbaking.co//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 27 Mar 2018 13:49:27 -0400</pubDate>
+    <lastBuildDate>Tue, 27 Mar 2018 13:49:27 -0400</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
+  </channel>
+</rss>

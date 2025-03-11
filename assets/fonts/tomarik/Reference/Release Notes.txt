@@ -1,0 +1,13 @@
+Tomarik v1.0
+October 12 2017
+
+files included:
+Tomarik Brush v1.0
+Tomarik Extrovert v1.0
+Tomarik Introvert v1.0
+Tomarik Poster v1.0
+Tomarik Serif v1.0
+Tomarik Display v1.0
+Tomarik Display Line v1.0
+Tomarik Shadow Display v1.0
+Tomarik Shadow Display Line v1.0
