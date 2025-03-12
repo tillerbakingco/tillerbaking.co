@@ -79,7 +79,7 @@ textarea {
   font-family: "Goudy Bookletter 1911", serif;
   font-size: 1em; }
 
-[type='color'], [type='date'], [type='datetime'], [type='datetime-local'], [type='email'], [type='month'], [type='number'], [type='password'], [type='search'], [type='tel'], [type='text'], [type='time'], [type='url'], [type='week'], input:not([type]), textarea {
+[type='color'], [type='date'], [type='datetime'], [type='datetime-local'], [type='email'], [type='month'], [type='number'], [type='password'], [type='search'], [type='tel'], [type='text'], [type='phone'], [type='time'], [type='url'], [type='week'], input:not([type]), textarea {
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
